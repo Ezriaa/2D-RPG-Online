@@ -74,29 +74,29 @@
     <LinkIncremental>true</LinkIncremental>
     <PublicIncludeDirectories>
     </PublicIncludeDirectories>
-    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Client\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Client\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <PublicIncludeDirectories>
     </PublicIncludeDirectories>
-    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Client\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Client\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
     <PublicIncludeDirectories>
     </PublicIncludeDirectories>
-    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Client\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Client\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
     <PublicIncludeDirectories>
     </PublicIncludeDirectories>
-    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Client\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Client\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Online 2D RPG\Online 2D RPG\Include\SFML-2.5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
