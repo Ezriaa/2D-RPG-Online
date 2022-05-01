@@ -6,9 +6,13 @@ I want to finish the game in single player mode and then create a multiplayer mo
 
 ## Build the solution
 • Open the solution with Visual Studio
+
 • Build the project
+
 • Go to Include folder, paste "res" and all DLL into the build folder
+
 • Start the server
+
 • Start the game
 
 ## Task List
