@@ -1,4 +1,3 @@
-@@ -0,0 +1,31 @@
 # 2D RPG Online
 
 A simple game made in C++ with the SFML library.
